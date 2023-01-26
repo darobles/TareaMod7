@@ -1,0 +1,2 @@
+[azure]
+jenkins ansible_host=172.176.131.90
